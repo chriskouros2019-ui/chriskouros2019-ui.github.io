@@ -32,3 +32,4 @@ Byte3: 11542c11542
        ---
        >     And all the men and women merely programmers;
 Byte4: the_triwizard_cup_is_now_yours
+Byte5: Usage: ./a.out <SDI>

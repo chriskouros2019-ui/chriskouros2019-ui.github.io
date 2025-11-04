@@ -5,3 +5,25 @@ chriskouros2019-ui.github.io
 $ curl --output /dev/null --silent --head --fail chriskouros2019-ui.github.io && \
 echo "URL exists" || echo "URL does not exist"
 URL exists
+Byte0: you_just_mastered_changing_directories
+Byte1: Running the program to find out what it does?
+       Remember, program output is not a manual page - look elsewhere.
+Byte2:  He that sweetest rose will find
+        23030:    That draw his knives i' th' war. Well, I will find him;
+        25318:    If circumstances lead me, I will find
+        29089:    But I will find him when he lies asleep,
+        50747:    The Cardinal instantly will find employment,
+        52062:    In time will find their fit rewards. That seal
+        52495:    Cranmer will find a friend will not shrink from him.
+        74233:    If you do love me, you will find me out.
+        76431:    I will find you twenty lascivious turtles ere one chaste
+        76477:  FORD.  [Aside]  I will be patient; I will find out this.
+        81162:  THESEUS. She will find him by starlight. Here she comes; and her
+        84887:    when she is sated with his body, she will find the error of her
+        85219:    required conveniences, her delicate tenderness will find itself
+        90177:    Post you to London, and you will find it so;
+        96833:No one will find this: grep_and_you_will_find
+        98753:  Fellow. I have a head, sir, that will find out logs
+        110620:    Can couch for fear but I will find them out;
+        116901:    will breed no terror in the youth: he will find it comes from a
+        123437:    The crown will find an heir. Great Alexander

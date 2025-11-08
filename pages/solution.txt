@@ -35,3 +35,4 @@ Byte4: the_triwizard_cup_is_now_yours
 Byte5: sdi2500100_1762616226_-1828306552_109_178_70_43_1764_22
 Byte6: unzipping_is_a_piece_of_cake
 Byte7: tar_jokes_cant_stick
+Byte8: cant_keep_secrets_from_you 

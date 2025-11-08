@@ -33,3 +33,4 @@ Byte3: 11542c11542
        >     And all the men and women merely programmers;
 Byte4: the_triwizard_cup_is_now_yours
 Byte5: sdi2500100_1762616226_-1828306552_109_178_70_43_1764_22
+Byte6: unzipping_is_a_piece_of_cake
